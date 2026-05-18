@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A7895&height=220&section=header&text=Art%20Kent&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Clean%20work.%20Clear%20ideas.%20Calm%20presence.&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0A7895&height=230&section=header&text=ART%20KENT&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Welcome%20to%20my%20digital%20space&descAlignY=60&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=900&color=0A7895&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Art+Kent;I+build+simple+and+meaningful+digital+work;Welcome+to+my+GitHub+space" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Designing+with+clarity;Building+with+purpose;Creating+with+calm+energy" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="460" />
 </p>
 
 <p align="center">
@@ -66,19 +66,3 @@ A clean personal portfolio showcasing my works, skills, and contact information.
     <img src="https://img.shields.io/badge/GitHub-Profile-102F3D?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>Clean work. Clear ideas. Calm presence.</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A7895&height=220&section=header&text=Art%20Kent&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Clean%20work.%20Clear%20ideas.%20Calm%20presence.&descAlignY=58&descSize=16" />
-</p>
-
----
-
-
