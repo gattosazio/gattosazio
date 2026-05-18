@@ -1,12 +1,22 @@
-<h1 align="center">Hi, I'm Art Kent!</h1>
-
-<h3 align="center">Web Developer</h3>
-
 <p align="center">
-  I build simple, useful, and meaningful digital work.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A7895&height=220&section=header&text=Art%20Kent&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Clean%20work.%20Clear%20ideas.%20Calm%20presence.&descAlignY=58&descSize=16" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=3000&pause=900&color=0A7895&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Art+Kent;I+build+simple+and+meaningful+digital+work;Welcome+to+my+GitHub+space" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gattosazio&label=Profile%20Views&color=0A7895&style=for-the-badge" />
+</p>
+
+<p align="center">
+  ✦ ━━━━━━━━━━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━━━━━━━━━━ ✦
+</p>
 
 ##  About Me
 
@@ -62,3 +72,13 @@ A clean personal portfolio showcasing my works, skills, and contact information.
 <p align="center">
   <i>Clean work. Clear ideas. Calm presence.</i>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A7895&height=220&section=header&text=Art%20Kent&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Clean%20work.%20Clear%20ideas.%20Calm%20presence.&descAlignY=58&descSize=16" />
+</p>
+
+---
+
+
