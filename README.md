@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Art Kent!</h1>
 
-<h3 align="center">Backend Developer | Clean Code Enthusiast | Calm Digital Builder</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   I build simple, useful, and meaningful digital work.
